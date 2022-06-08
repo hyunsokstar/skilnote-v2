@@ -103,7 +103,7 @@ class TempMyShortCutForBackEnd(models.Model):
 
 
 # skil note용 모델
-# D:\new-skilnote\skilnote-for-mes\wm\models.py
+# D:\new-skilnote\skilnote-v2\wm\models.py
 class MyShortCut(models.Model):
     title = models.CharField(max_length=120)
     filename= models.CharField(max_length=120, blank=True)

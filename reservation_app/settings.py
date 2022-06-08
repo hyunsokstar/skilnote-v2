@@ -11,7 +11,7 @@ SECRET_KEY = 'qki)d54cmpt_v7b5m07qh$d#o3j6#pm3gi=po&)b2a59$e859x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['141.164.40.240','127.0.0.1', 'www.skilnote-for-mes.shop', 'skilnote-for-mes.shop']
+ALLOWED_HOSTS = ['141.164.40.240','127.0.0.1', 'www.skilnote-v2.shop', 'skilnote-v2.shop']
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 # Application definition
